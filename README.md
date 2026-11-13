@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Im an univeristy student in computational science currently learning about IT support, cybersecurity and computer networking. 🌱
-This is my own repository to keep track of my own knowledge. 
+<p>Im an univeristy student in computational science currently learning about IT support, cybersecurity and computer networking. 🌱 </p>
+<p>This is my own repository to keep track of my own knowledge. </p>
